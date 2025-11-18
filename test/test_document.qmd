@@ -1,0 +1,2596 @@
+---
+title: "fbgfbdfgb"
+---
+
+<img
+src="secrect_path_media/media/image1.png"
+style="width:2.12847in;height:0.54444in" />
+
+**Secret org Foundation**
+
+**Secret org Project**
+
+RESTRICTED
+
+**Transfer Hot Cells Elevators - Drive system analysis report**
+
+**Prepared by**
+
+<img
+src="secrect_path_media/media/image2.jpeg"
+style="width:1.73256in;height:0.73074in" />
+
+**for**
+
+**Secret org Foundation**
+
+**July 2025**
+
+**Page 1 of 40**
+
+<table>
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 34%" />
+<col style="width: 18%" />
+<col style="width: 18%" />
+<col style="width: 18%" />
+</colgroup>
+<tbody>
+<tr>
+<td colspan="2" rowspan="2" style="text-align: center;"><strong>Secret org
+Project</strong></td>
+<td colspan="3">DocuFDSVSDFBt N°: Doc. ID</td>
+</tr>
+<tr>
+<td colspan="3"><strong>Doc. Title: title</strong></td>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center;"><strong>Revision
+Sheet</strong></td>
+<td colspan="3" style="text-align: left;">Ref. No:</td>
+</tr>
+<tr>
+<td style="text-align: center;"><strong>Rev.<br />
+Letter</strong></td>
+<td style="text-align: center;"><strong>Description of
+Revision</strong></td>
+<td style="text-align: center;"><strong>Prepared</strong></td>
+<td style="text-align: center;"><strong>Checked/<br />
+Reviewed</strong></td>
+<td style="text-align: center;"><strong>Approved</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;">A</td>
+<td style="text-align: center;">Original Issue</td>
+<td><p>sdfvsdf</p>
+<p>fgbdf</p>
+<p>(gfbd)</p></td>
+<td><p>C. bfdgb</p>
+<p>N. gdbd</p>
+<p>D. dfgb</p></td>
+<td>C. dfgb</td>
+</tr>
+<tr>
+<td style="text-align: center;">B</td>
+<td style="text-align: center;">Calculation update</td>
+<td>F. dfgb (dfbg)</td>
+<td><p>C. dfgb</p>
+<p>N. dfgb</p>
+<p>D. dfgb</p></td>
+<td>C. dfgb</td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="5"
+style="text-align: left;"><p><strong>RESTRICTED</strong>: standard
+classification for all docuFDSVSDFBts, not meant for the public.</p>
+<p><strong>Note:</strong> This an electronically signed docuFDSVSDFBt.
+AgreeFDSVSDFBt with the docuFDSVSDFBt is expressed with the signature of all above
+FDSVSDFBtioned people This is a valid docuFDSVSDFBt provided all signatures
+are listed in the last page.</p></td>
+</tr>
+</tbody>
+</table>
+
+**TABLE OF CONTENTS**
+
+[1 PURPOSE [4](#purpose)](#purpose)
+
+[2 SCOPE [4](#scope)](#scope)
+
+[3 ABBREVIATIONS
+[4](#this-docuFDSVSDFBt-applies-to-detail-engineering-stage.this-docuFDSVSDFBt-applies-to-radioisotope-transfer-hot-cell-and-flexible-transfer-hot-cell-elevators.analysis-of-the-detailed-dynamic-and-kinematic-analysis-and-the-selection-of-machine-components-and-eleFDSVSDFBts-on-the-drive-system-only.it-is-out-of-scope-the-structural-analysis-of-the-supports.abbreviations)](#this-docuFDSVSDFBt-applies-to-detail-engineering-stage.this-docuFDSVSDFBt-applies-to-radioisotope-transfer-hot-cell-and-flexible-transfer-hot-cell-elevators.analysis-of-the-detailed-dynamic-and-kinematic-analysis-and-the-selection-of-machine-components-and-eleFDSVSDFBts-on-the-drive-system-only.it-is-out-of-scope-the-structural-analysis-of-the-supports.abbreviations)
+
+[4 REQUIREFDSVSDFBTS [4](#requireFDSVSDFBts)](#requireFDSVSDFBts)
+
+[5 INTRODUCTION [6](#introduction)](#introduction)
+
+[6 ROTATION MOVEFDSVSDFBT
+[7](#elevators-have-the-main-function-of-transporting-production-rig-from-the-service-pool-sp-to-the-hot-cells-and-vice-versa-without-irradiating-initially-and-irradiated-upon-return.each-hot-cell-has-its-own-elevator.hot-cells-are-two-sealed-containers-surrounded-by-shielding-to-protect-the-operator-from-contamination-and-radiation.the-flexible-transfer-hot-cell-fthc-transports-a-heavier-and-longer-experiFDSVSDFBt-rig.the-principal-parts-of-the-elevators-aredrive-system-with-its-trays-and-supports.rotating-column-is-supported-on-the-sp-and-the-rotating-axis.arm-with-support-for-rigs.-see-figure-1the-inspection-bridge-and-service-pool-are-interfaces-components-of-the-drive-system.-rotation-moveFDSVSDFBt)](#elevators-have-the-main-function-of-transporting-production-rig-from-the-service-pool-sp-to-the-hot-cells-and-vice-versa-without-irradiating-initially-and-irradiated-upon-return.each-hot-cell-has-its-own-elevator.hot-cells-are-two-sealed-containers-surrounded-by-shielding-to-protect-the-operator-from-contamination-and-radiation.the-flexible-transfer-hot-cell-fthc-transports-a-heavier-and-longer-experiFDSVSDFBt-rig.the-principal-parts-of-the-elevators-aredrive-system-with-its-trays-and-supports.rotating-column-is-supported-on-the-sp-and-the-rotating-axis.arm-with-support-for-rigs.-see-figure-1the-inspection-bridge-and-service-pool-are-interfaces-components-of-the-drive-system.-rotation-moveFDSVSDFBt)
+
+[6.1 Torque calculations
+[8](#torque-calculations)](#torque-calculations)
+
+[6.2 Rotational Inertia results
+[9](#rotational-inertia-results)](#rotational-inertia-results)
+
+[6.3 Water resistance [9](#_Toc189216551)](#_Toc189216551)
+
+[6.4 Drag torque results
+[10](#drag-torque-results)](#drag-torque-results)
+
+[6.5 Rotation results [11](#_Toc189216553)](#_Toc189216553)
+
+[6.6 Rotation finals position control
+[13](#rotation-finals-position-control)](#rotation-finals-position-control)
+
+[6.6.1 Positions Sensors
+[13](#the-final-position-control-of-the-system-is-achieved-through-a-combination-of-two-pairs-of-inductive-sensors-that-function-as-limit-switches.-this-signal-communicates-the-irradiation-control-and-monitoring-system-icms-that-control-the-drive-system.the-emergency-signals-communicate-with-the-motor-control-center-mcc.positions-sensors)](#the-final-position-control-of-the-system-is-achieved-through-a-combination-of-two-pairs-of-inductive-sensors-that-function-as-limit-switches.-this-signal-communicates-the-irradiation-control-and-monitoring-system-icms-that-control-the-drive-system.the-emergency-signals-communicate-with-the-motor-control-center-mcc.positions-sensors)
+
+[6.6.2 Emergency Stop Sensors
+[13](#hot-cell-position-sensor-this-sensor-detects-when-the-column-has-reached-its-initial-position.-service-pool-sensor-this-sensor-detects-when-the-column-has-reached-its-target-position-at-135-from-zero.emergency-stop-sensors)](#hot-cell-position-sensor-this-sensor-detects-when-the-column-has-reached-its-initial-position.-service-pool-sensor-this-sensor-detects-when-the-column-has-reached-its-target-position-at-135-from-zero.emergency-stop-sensors)
+
+[6.6.3 Mechanical Stops [13](#mechanical-stops)](#mechanical-stops)
+
+[6.7 Rotation moveFDSVSDFBt conclusion
+[14](#mechanical-stops-shall-be-placed-to-stop-the-moveFDSVSDFBt-of-the-rotating-column-and-prevent-crashes-with-the-sp.rotation-moveFDSVSDFBt-conclusion)](#mechanical-stops-shall-be-placed-to-stop-the-moveFDSVSDFBt-of-the-rotating-column-and-prevent-crashes-with-the-sp.rotation-moveFDSVSDFBt-conclusion)
+
+[6.8 Drive rotation moveFDSVSDFBt selection
+[14](#drive-rotation-moveFDSVSDFBt-selection)](#drive-rotation-moveFDSVSDFBt-selection)
+
+[7 LIFTING MOVEFDSVSDFBT [15](#lifting-moveFDSVSDFBt)](#lifting-moveFDSVSDFBt)
+
+[7.1 Wire rope characteristics
+[15](#wire-rope-characteristics)](#wire-rope-characteristics)
+
+[7.1.1 Durability and Wear Resistance
+[15](#the-stainless-steel-wire-rope-shall-be-manufactured-in-accordance-with-en-12385-for-steel-wire-ropes.durability-and-wear-resistance)](#the-stainless-steel-wire-rope-shall-be-manufactured-in-accordance-with-en-12385-for-steel-wire-ropes.durability-and-wear-resistance)
+
+[7.1.2 Rope material
+[15](#the-steel-rope-shall-have-high-resistance-to-abrasion-to-withstand-the-wear-and-tear-caused-by-frequent-contact-with-the-pulleys-and-drum.-the-wire-should-be-capable-of-withstanding-repeated-bending-and-flexing-over-the-pulleys-and-drum-without-developing-fatigue-cracks.-this-ensures-a-long-service-life-even-under-continuous-operation.rope-material)](#the-steel-rope-shall-have-high-resistance-to-abrasion-to-withstand-the-wear-and-tear-caused-by-frequent-contact-with-the-pulleys-and-drum.-the-wire-should-be-capable-of-withstanding-repeated-bending-and-flexing-over-the-pulleys-and-drum-without-developing-fatigue-cracks.-this-ensures-a-long-service-life-even-under-continuous-operation.rope-material)
+
+[7.1.3 Rope calculation
+[16](#given-the-exposure-to-moisture-and-other-corrosive-eleFDSVSDFBts-the-steel-wire-shall-be-made-of-corrosion-resistant-material-such-as-stainless-steel.-the-selected-rope-verified-through-the-calculations-in-this-docuFDSVSDFBt-meets-the-following-specificationsconstruction-6x36-iwrc-independent-wire-rope-corematerial-aisi-316-stainless-steelgrade-1570-nmm²rope-calculation)](#given-the-exposure-to-moisture-and-other-corrosive-eleFDSVSDFBts-the-steel-wire-shall-be-made-of-corrosion-resistant-material-such-as-stainless-steel.-the-selected-rope-verified-through-the-calculations-in-this-docuFDSVSDFBt-meets-the-following-specificationsconstruction-6x36-iwrc-independent-wire-rope-corematerial-aisi-316-stainless-steelgrade-1570-nmm²rope-calculation)
+
+[7.2 Rope selection criteria
+[21](#rope-selection-criteria)](#rope-selection-criteria)
+
+[7.2.1 Rope characteristics
+[21](#rope-characteristics)](#rope-characteristics)
+
+[7.2.2 Verification Limit design rope force
+[21](#section-1)](#section-1)
+
+[7.3 Drum selection [21](#drum-selection)](#drum-selection)
+
+[7.4 Lifting Calculations
+[21](#lifting-calculations)](#lifting-calculations)
+
+[7.5 Lifting torque results
+[22](#lifting-torque-results)](#lifting-torque-results)
+
+[7.6 Drive lifting moveFDSVSDFBt selection
+[22](#drive-lifting-moveFDSVSDFBt-selection)](#drive-lifting-moveFDSVSDFBt-selection)
+
+[7.7 Lifting final position control
+[25](#drive-lifting-motor-selection)](#drive-lifting-motor-selection)
+
+[7.7.1 Positions Sensors
+[34](#the-final-position-control-of-the-system-is-achieved-through-a-combination-of-two-pairs-of-limits-sensors-that-function-as-limit-switches.-this-signal-communicates-the-icms-that-control-the-drive-system.the-emergency-signals-communicate-with-the-mcc.positions-sensors)](#the-final-position-control-of-the-system-is-achieved-through-a-combination-of-two-pairs-of-limits-sensors-that-function-as-limit-switches.-this-signal-communicates-the-icms-that-control-the-drive-system.the-emergency-signals-communicate-with-the-mcc.positions-sensors)
+
+[7.7.2 Mechanical Stops
+[34](#hot-cell-position-sensor-this-sensor-detects-when-the-column-has-reached-its-upper-position.-service-pool-sensor-this-sensor-detects-when-the-column-has-reached-its-target-position-at-the-bottom-of-the-sp.mechanical-stops)](#hot-cell-position-sensor-this-sensor-detects-when-the-column-has-reached-its-upper-position.-service-pool-sensor-this-sensor-detects-when-the-column-has-reached-its-target-position-at-the-bottom-of-the-sp.mechanical-stops)
+
+[7.8 Lifting moveFDSVSDFBt conclusion
+[34](#mechanical-stops-shall-be-placed-to-stop-the-lifting-moveFDSVSDFBt-and-prevent-collisions-with-the-pool.-additionally-a-damper-shall-be-placed-at-the-bottom-of-the-sp-to-prevent-damage-in-case-of-a-fall.lifting-moveFDSVSDFBt-conclusion)](#mechanical-stops-shall-be-placed-to-stop-the-lifting-moveFDSVSDFBt-and-prevent-collisions-with-the-pool.-additionally-a-damper-shall-be-placed-at-the-bottom-of-the-sp-to-prevent-damage-in-case-of-a-fall.lifting-moveFDSVSDFBt-conclusion)
+
+[8 DRIVE SYSTEM GENERAL CONCLUSION [34](#arm-system)](#arm-system)
+
+[9 APPLICABLE DOCUFDSVSDFBTS
+[40](#applicable-docuFDSVSDFBts)](#applicable-docuFDSVSDFBts)
+
+[10 REFERENCE DOCUFDSVSDFBTS
+[40](#reference-docuFDSVSDFBts)](#reference-docuFDSVSDFBts)
+
+[11 ANNEXES [40](#_Toc189216579)](#_Toc189216579)
+
+[11.1 ANNEX 1 – Drive Rotation MoveFDSVSDFBt Gearmotor Data Sheet
+[40](#_Toc189216580)](#_Toc189216580)
+
+[11.2 ANNEX 2 – Drive Lifting MoveFDSVSDFBt Gearmotor Data Sheet
+[40](#_Toc189216581)](#_Toc189216581)
+
+[11.3 ANNEX 3 – Wire Rope Data Sheet
+[40](#_Toc189216582)](#_Toc189216582)
+
+# 
+
+# PURPOSE
+
+1.  Analyze the design corresponding to the Transfer Hot Cells Elevators
+    Drive System.
+
+# SCOPE
+
+1.  
+2.  
+3.  
+4.  
+
+# This docuFDSVSDFBt applies to Detail Engineering stage.This docuFDSVSDFBt applies to Radioisotope Transfer Hot Cell and Flexible Transfer Hot Cell Elevators.Analysis of the detailed dynamic and kinematic analysis and the selection of machine components and eleFDSVSDFBts on the Drive system only.It is out of scope the structural analysis of the supports.ABBREVIATIONS
+
+1.  
+
+|  |  |
+|:--:|:--:|
+| See Secret org Project Glossary listed in reference \[3\].**Abbreviation and Definitions** | **Explanatory section** |
+| THCE | bdfgbdfg |
+| SP | dfgbdf |
+| RP | fdbgfdbg |
+| FTHC | dfgbdfgb |
+| ICMS | dfgbdfgb |
+| MCC | dfgbfdgb. |
+
+# REQUIREFDSVSDFBTS
+
+1.  
+2.  
+3.  
+4.  
+5.  
+6.  
+
+<!-- -->
+
+2.  Lifting speed of 7 m/min +/- 2m/min (with the possibility of varying
+    speed +/-10%).Full rotation (135°) in 10 seconds +/- 2 seconds (with
+    the possibility of variation +/-10%)Drive System weight shall not
+    exceed 1000kg.The System weight shall not exceed 810 kg.Consider an
+    eventual 4 meters Rig mass of 200kg. Consider a seismic acceleration
+    from Table 11: Design seismic acceleration action value of reference
+    “ORGF-6812-3BREIN-002-A”
+
+<!-- -->
+
+7.  
+8.  
+9.  
+10. 
+11. 
+12. 
+13. 
+14. 
+15. 1.  
+    2.  
+    3.  
+16. 
+17. 
+18. 
+19. 
+20. 
+
+Consider antirotation arm reaction from Table 63: Force reactions in the
+Drive System arm joint of reference “ORGF-6812-3BREIN-002-A”Consider the
+elevator and inspection bridge assembly is defined in the 3D model
+FDVVFD10000009807 revision 5.It shall consider a transport frequency
+of an ExperiFDSVSDFBtal Rig of 4 (four) times per year.It shall consider a
+that the Drive system shall be installed for 60 years.It shall consider
+a that the Drive system shall be use for 40 years.The weight of the
+Drive System assembly is loaded onto the Inspection Bridge, no weight is
+loaded onto the Rotating Column assembly.There are two working positions
+distant at 135° for the rotational moveFDSVSDFBt.There are two working
+positions distant at 4.6m for the lifting moveFDSVSDFBt.There are 3 working
+positions: Lower at 135°, SERVICE POOL POSITION. Lower at 0°, ON HOLD
+POSITION.Lifted at 0°, HOT CELL POSITION.The service pool
+VDFVDFV09950010000010879 version 9 (reference 3D).Consider a safety water
+level 12800 mm from bottom of the RP.Avoid collisions with the 3D model
+of the system and with its interface models SP.To control the position,
+consider 2 limits switches for each moveFDSVSDFBt.Mechanical stops, the
+design shall include mechanical stops to avoid major damages.Figure 1 –
+Colum with arm.
+
+3.  
+
+4.  <img
+    src="secrect_path_media/media/image4.png"
+    style="width:2.40659in;height:6.8968in"
+    alt="Dibujo en blanco y negro El contenido generado por IA puede ser incorrecto." />
+
+# INTRODUCTION
+
+1.  
+2.  
+3.  
+4.  
+5.  1.  
+    2.  
+    3.  
+6.  
+
+# Elevators have the main function of transporting production Rig from the Service Pool (SP) to the Hot Cells and vice versa (without irradiating initially and irradiated upon return).Each Hot Cell has its own elevator.Hot Cells are two sealed containers surrounded by shielding to protect the operator from contamination and radiation.The Flexible Transfer Hot cell (FTHC) transports a heavier and longer ExperiFDSVSDFBt Rig.The principal parts of the elevators are:DRIVE SYSTEM, with its trays and supports.ROTATING COLUMN is supported on the SP and the rotating axis.ARM WITH SUPPORT FOR RIGS. See Figure 1The Inspection Bridge and Service Pool are interfaces components of the Drive system. ROTATION MOVEFDSVSDFBT
+
+7.  
+
+In order to calculate the needed torque, consider the moveFDSVSDFBt of the
+column, the arm, and the drag forces generated1. The total torque
+required $`\left(_{} \right)`$ is the sum of the inertial torque ($``$
+to accelerate the mass and the drag torque $`_{}`$ from water
+resistance.
+
+``` math
+_{}_{}
+```
+
+Figure 2:FTHC Elevator
+
+<img
+src="secrect_path_media/media/image6.png"
+style="width:2.80247in;height:7.28227in"
+alt="Grúa de construcción El contenido generado por IA puede ser incorrecto." />
+
+## Torque calculations
+
+1.  
+
+<!-- -->
+
+5.  Newton's Second Law of Motion states that the force acting on an
+    object is equal to the mass of the object multiplied by its
+    acceleration. In rotational motion, this law can be expressed in
+    terms of torque ($`T`$), moFDSVSDFBt of inertia ($`I`$), and angular
+    acceleration ($`\alpha`$) as follows:$`T = I\  \times \ \alpha`$
+
+<!-- -->
+
+8.  1.  
+    2.  
+    3.  
+
+<!-- -->
+
+6.  Where:$`T`$ represents the torque applied to the rotating
+    component.$`I\ `$is the moFDSVSDFBt of inertia, which quantifies an
+    object's resistance to changes in its rotational motion.$`\alpha`$
+    denotes the angular acceleration, the rate of change of angular
+    velocity with respect to time.
+
+7.  
+
+8.  The motion profile is defined as a trapezoidal moveFDSVSDFBt, with
+    constant acceleration time, constant velocity and constant
+    deceleration time.
+
+9.  
+
+10. Given the requireFDSVSDFBt for a total displaceFDSVSDFBt in a total time, with
+    a specified time to reach maximum velocity, the maximum angular
+    velocity and angular acceleration are
+    calculated.$`_{\left\{ \left\{ \right\} \right\}}_{\left\{ \left\{ \right\} \right\}}_{\left\{ \left\{ \right\} \right\}}`$
+
+``` math
+```
+
+## Rotational Inertia results
+
+1.  
+
+Rotating moveFDSVSDFBt parameters and results are showed in
+<span class="mark">Table 1</span>.<span class="mark">Table 1 Rotating
+Inertia calculations.</span>
+
+|  |
+|----|
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+|  |
+| <span id="_Toc189216551" class="anchor"></span><span class="mark">Rotating moveFDSVSDFBt</span> |
+| <span class="mark">Total displaceFDSVSDFBt °</span> |
+| <span class="mark">Time \[s\]</span> |
+| <span class="mark">Time to max. velocity \[s\]</span> |
+| <span class="mark">Inertia \[kg\*m2\]</span> |
+| <span class="mark">Results</span> |
+| <span class="mark">Velocity \[°/s\]</span> |
+| <span class="mark">Velocity \[rad/s\]</span> |
+| <span class="mark">Velocity \[RPM\]</span> |
+| <span class="mark">Acceleration \[1/s2\]</span> |
+| **<span class="mark">Torque \[Nm\]</span>** |
+
+## Water resistance
+
+1.  The rotating component experiences resistance to motion caused by
+    the drag force exerted by the housing, such as the pole. The drag
+    force ($`F_{d}`$) can be calculated using the formula:
+    ``` math
+    F_{d} = \frac{1}{2}C_{d}\rho Av^{2}
+    ```
+
+<!-- -->
+
+11. Where:
+
+    1.  
+
+    2.  
+
+    3.  
+
+    4.  
+
+    5.  $`\rho`$ is the density of the fluid (water) through which the
+        component is moving.$`A`$ is the reference area (cross-sectional
+        area) of the rotating component. See Figure 3$`C_{d}`$ is the
+        drag coefficient, which depends on the shape and surface
+        roughness of the component.$`v`$ is the linear velocity of the
+        rotating component.The drag torque ($`T_{d\ }`$) required to
+        overcome drag can be determined by multiplying the drag force by
+        the radius ($`r`$) of the rotating component.
+        ``` math
+        T_{d} = F_{d} \times r
+        ```
+
+Figure 3 Arm area calculation.
+
+## Drag torque results
+
+12. In table 1 it is show the value consider on the calculations of the
+    drag force.
+
+<!-- -->
+
+1.  
+
+<!-- -->
+
+13. 
+
+| <span class="mark">Drag</span> | <span class="mark"> </span> |
+|----|----|
+| <span class="mark">Cd "L profile"</span> | <span class="mark">0.80</span> |
+| <span class="mark">Density 𝜌 \[kg/m3\]</span> | <span class="mark">997.00</span> |
+| <span class="mark">Area \[m2\]</span> | <span class="mark">1.20</span> |
+| <span class="mark">Max. velocity \[m/s\]</span> | <span class="mark">0.26</span> |
+| <span class="mark">"r" rotation distance \[m\]</span> | <span class="mark">1.09</span> |
+| <span class="mark">Max. velocity \[rad/s\]</span> | <span class="mark">0.24</span> |
+| <span class="mark">Results</span> | <span class="mark"> </span> |
+| <span class="mark">Drag force \[N\]</span> | <span class="mark">31.57</span> |
+| <span class="mark">Drag torque \[Nm\]</span> | <span class="mark">34.41</span> |
+
+Table 2 Rotating drag calculations.
+
+<span id="_Toc189216553" class="anchor"></span>
+
+## Rotation results
+
+1.  <span class="mark"></span>
+
+<table style="width:33%;">
+<caption><p><mark>Considering both inertia from Table 1 and drag force
+from Table 2 , the characteristics for the motor shall follow the
+following table. See Table 3.</mark>Table 3 Rotating calculation
+results.</p></caption>
+<colgroup>
+<col style="width: 18%" />
+<col style="width: 14%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="2"><mark>Results for Slewing Torque</mark></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><mark>Velocity [RPM]</mark></td>
+<td><mark>3.00</mark></td>
+</tr>
+<tr>
+<td><mark>Total torque [Nm]</mark></td>
+<td><mark>140.37</mark></td>
+</tr>
+<tr>
+<td><strong><mark>Power [kW]</mark></strong></td>
+<td><strong><mark>0.04</mark></strong></td>
+</tr>
+</tbody>
+</table>
+
+## Splined Shaft Verification
+
+1.  
+
+<!-- -->
+
+14. <span class="mark">To transmit torque from the</span>
+    <span class="mark">sprocket</span> <span class="mark">from the
+    rotation system</span> <span class="mark">to the Column</span>
+    <span class="mark">a</span> <span class="mark">splined shaft is
+    used. The geometry of the splines conforms to ISO 14. See</span>
+    <span class="mark">Figure 4.The</span> <span class="mark">Shaft
+    geometry</span> <span class="mark">is a</span>
+    <span class="mark">Splined ISO 14 8x46x54</span>
+
+15. <span class="mark">The structural verification of the splined
+    connection ensures that the</span> <span class="mark">bearing</span>
+    <span class="mark">pressure on the flanks of the splines does not
+    exceed the allowable limit for</span> <span class="mark">the
+    column</span> <span class="mark">material.</span>
+
+16. <span class="mark">The analysis</span>
+    <span class="mark">calculates</span> <span class="mark">the surface
+    pressure</span> $``$<span class="mark">) on the spline flanks
+    and</span> <span class="mark">compares</span> <span class="mark">it
+    to the allowable surface pressure
+    (</span>$`_{}`$<span class="mark">) for the shaft and hub materials.
+    The design</span> <span class="mark">shall</span>
+    <span class="mark">satisfy:</span>
+
+    ``` math
+    \leq_{}
+    ```
+
+17. <span class="mark">The mean surface pressure is calculated using the
+    following formula:</span>
+
+    ``` math
+    \frac{\cdot \cdot_{}}{\cdot \cdot \cdot_{}}
+    ```
+
+18. <span class="mark">Where:</span>
+
+    1.  
+    2.  
+    3.  
+    4.  
+    5.  
+    6.  
+    7.  
+    8.  
+
+19. $``$ <span class="mark">= Maximum transmitted torque
+    \[Nmm\]</span>$`_{}`$ <span class="mark">= Application factor
+    (service factor, e.g., 1.0 for uniform load, 1.5 for moderate
+    shocks)</span>$``$ <span class="mark">= Number of splines,</span>
+    $``$ <span class="mark">= Effective length of spline engageFDSVSDFBt
+    \[mm\]</span>$``$ <span class="mark">= Height of contact on the
+    flank</span> <span class="mark">\[mm\]</span>$`_{}`$
+    <span class="mark">= Mean spline diameter \[mm\]</span>$``$
+    <span class="mark">= Major diameter of the spline \[mm\]</span>$``$
+    <span class="mark">= Minor diameter of the spline \[mm\]The
+    calculated surface pressure and the splined shaft connection
+    calculation are shown in</span> <span class="mark">Table 4</span>
+
+| Parameter                              | Value      | Unit  |
+|----------------------------------------|------------|-------|
+| Maximum Transmitted Torque (T)         | 2,597,245  | Nmm   |
+| Bending MoFDSVSDFBt (Mf)                    | 1,000,000  | Nmm   |
+| Major Diameter (D)                     | 54         | mm    |
+| Minor Diameter (d)                     | 46         | mm    |
+| Number of Splines (z)                  | 8          | \-    |
+| Contact Length (L)                     | 50         | mm    |
+| Material Properties                    |            |       |
+| SHAFT Yield Strength (Sy,shaft) - 440C | 450        | MPa   |
+| HUB Yield Strength (Sy,hub) - 1.4401   | 200        | MPa   |
+| Material Safety Factor (SF)            | 1.11       | \-    |
+| Mean Diameter (dm)                     | 50         | mm    |
+| Spline Height (h)                      | 4          | mm    |
+| Shaft MoFDSVSDFBt of Inertia (Ishaft)       | 219,786.61 | mm^4  |
+| STRESS CALCULATIONS                    |            |       |
+| HUB Verification                       |            |       |
+| Surface Pressure on Flanks (p)         | 64.93      | MPa   |
+| SHAFT Verification                     |            |       |
+| Shear Stress (τ)                       | 64.93      | MPa   |
+| Bending Stress (σ_f)                   | 104.65     | MPa   |
+| Von Mises Equivalent Stress (σ_v)      | 153.62     | MPa   |
+| HUB Result                             |            |       |
+| Allowable Pressure (p_adm)             | 180.18     | MPa   |
+| Utilization Ratio (Hub)                | **0.36**   | **-** |
+| SHAFT Result (combined stresses)       |            |       |
+| Allowable Stress (S_adm)               | 405.41     | MPa   |
+| Utilization Ratio (Shaft)              | **0.38**   | **-** |
+
+Table 4 Splined Shaft Verification (ISO 14: 8x46x54)
+
+Figure 4 Splined Shaft (ISO 14: 8x46x54)
+
+<img
+src="secrect_path_media/media/image10.png"
+style="width:1.919in;height:3.14961in"
+alt="Imagen que contiene botella El contenido generado por IA puede ser incorrecto." />
+
+<table style="width:44%;">
+<colgroup>
+<col style="width: 27%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="2"><table style="width:42%;">
+<colgroup>
+<col style="width: 25%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="2" style="text-align: left;"><strong>Results for Slewing
+Torque</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Velocity [RPM]</td>
+<td style="text-align: left;">3.00</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Total torque [Nm]</strong></td>
+<td style="text-align: right;"><strong>124.01</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Power [W]</strong></td>
+<td style="text-align: right;"><strong>29.22</strong></td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Power [kW]</strong></td>
+<td style="text-align: right;"><strong>0.04</strong></td>
+</tr>
+</tbody>
+</table></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+|     |     |
+|:----|:----|
+|     |     |
+|     |     |
+|     |     |
+
+## Rotation finals position control
+
+1.  
+2.  
+3.  
+
+### The final position control of the system is achieved through a combination of two pairs of inductive sensors that function as limit switches. This signal communicates the Irradiation Control and Monitoring System (ICMS) that control the Drive System.The emergency signals communicate with the Motor Control Center (MCC).Positions Sensors
+
+1.  
+2.  
+
+### Hot cell Position Sensor: This sensor detects when the column has reached its initial position. Service Pool Sensor: This sensor detects when the column has reached its target position at 135° from zero.Emergency Stop Sensors
+
+1.  
+
+<!-- -->
+
+20. Emergency Stop Hot Cell Position Sensor: This sensor provides an
+    additional safety check at the Hot cell Position. If the column
+    reaches this sensor unexpectedly, it triggers an emergency stop to
+    prevent any potential damage or safety hazards.Emergency Stop
+    Service Pool Sensor: This sensor provides a safety check at the
+    Service Pool position. It ensures that if the column reaches this
+    position unexpectedly, the system will halt to avoid any accidents.
+
+### Mechanical Stops
+
+1.  
+
+## Mechanical stops shall be placed to stop the moveFDSVSDFBt of the rotating column and prevent crashes with the SP.Rotation moveFDSVSDFBt conclusion
+
+1.  
+2.  
+
+## The moveFDSVSDFBt of the column is a critical aspect of the system, directly influenced by the gearmotor and monitored by the inductive sensors. The primary sensors ensure accurate positioning, while the emergency stop sensors provide critical safety features. This combination results in a reliable and efficient system capable of handling both regular operations and unexpected situations with equal effectiveness.Chain Drive Transmission
+
+21. The rotation of the column is achieved by transmitting power from
+    the gearmotor via a roller chain drive. The selected system uses a
+    12-B triple stainless steel roller chain, a 45-tooth sprocket
+    $`_{}`$ mounted on the rotating column, and a 16-tooth pinion
+    $`_{}`$ on the gearmotor output shaft. The system also includes a
+    chain tensioner to maintain correct tension.
+
+22. The calculations to select the chain and determine the required
+    torque required input from the motor are as follows.
+
+23. The transmission ratio ($``$) is:
+
+``` math
+\frac{\left(_{} \right)}{\left(_{} \right)}\frac{}{}
+```
+
+24. The required input torque from the gearmotor is calculated based on
+    the total output torque and the transmission ratio.
+
+    ``` math
+    _{}\frac{_{}}{}
+    ```
+
+25. The required input velocity from the gearmotor is:
+
+    ``` math
+    _{}_{} \times
+    ```
+
+26. The results of these calculations are shown in Table 5. This input
+    torque is the value used to select the drive gearmotor.
+
+| Chain Power             |        |
+|-------------------------|-------:|
+| Output Velocity \[RPM\] |   3.00 |
+| Output Torque \[Nm\]    | 140.37 |
+| Input Torque \[Nm\]     |  46.79 |
+| Power \[kW\]            |   0.04 |
+
+Table 5 Chain Power Calculation Results
+
+## Drive rotation moveFDSVSDFBt selection
+
+1.  
+
+<!-- -->
+
+27. <span class="mark"></span>The selected Drive system for the
+    rotational moveFDSVSDFBt is a gear motor. Gear motors offer several
+    advantages, including high efficiency, compact size, precise control
+    of speed and torque, and durability. Additionally, they are
+    reliable, require minimal maintenance, and can operate under a wide
+    range of conditions.<span class="mark">For this application, the
+    brand SEW Euro drives \[6\] offer the gearmotor,</span>
+    <span class="mark">S57pDRN90S4BE2</span> <span class="mark">with the
+    following characteristics. See Table 6.</span>
+
+| **<span class="mark">Characteristics</span>** | **<span class="mark">Value</span>** | **<span class="mark">Unit</span>** |
+|:---|:--:|:---|
+| <span class="mark">Nominal motor speed</span> | <span class="mark">1405</span> | <span class="mark">1/min</span> |
+| <span class="mark">Output speed</span> | <span class="mark">10</span> | <span class="mark">1/min</span> |
+| <span class="mark">Total reduction ratio</span> | <span class="mark">137.05</span> | <span class="mark"> </span> |
+| <span class="mark">Output torque</span> | <span class="mark">140</span> | <span class="mark">Nm</span> |
+| <span class="mark">Service factor SEW-FB</span> | <span class="mark">0.9</span> | <span class="mark"> </span> |
+| <span class="mark">Motor power</span> | <span class="mark">0.25</span> | <span class="mark">kW</span> |
+| <span class="mark">Duty factor</span> | <span class="mark">S1-100%</span> | <span class="mark"> </span> |
+| <span class="mark">Efficiency class</span> | <span class="mark">IE3</span> | <span class="mark"> </span> |
+| <span class="mark">Net weight</span> | <span class="mark">20.9</span> | <span class="mark">Kg</span> |
+
+Table 6 Rotation moveFDSVSDFBt gearmotor.
+
+# LIFTING MOVEFDSVSDFBT
+
+1.  
+2.  
+3.  
+
+<!-- -->
+
+28. The lifting moveFDSVSDFBt in this system is achieved through a gear motor
+    that drives a drum connected to a stainless-steel wire rope which is
+    mechanically connected with the arm. See Figure 5.The gearmotor
+    ensures precise control and consistent speed during operation, while
+    the drum and stainless-steel wire setup provides robust and reliable
+    lifting capabilities. The gearmotor is designed to provide
+    sufficient torque to lift the arm when transporting an experiFDSVSDFBtal
+    rig.The lifting moveFDSVSDFBt is achieved by a gear motor that drives a
+    stainless steel 316L drum via a bevel gear transmission (1:3 ratio).
+    A stainless-steel wire rope (AISI 316) is on the drum and connects
+    to the Arm. The entire drum assembly is mounted on a 440C stainless
+    steel shaft.
+
+29. This system replaces the previously analyzed direct drive gearmotor.
+
+## Wire rope characteristics
+
+1.  
+
+### The stainless-steel wire rope shall be manufactured in accordance with EN 12385 for steel wire ropes.Durability and Wear Resistance
+
+1.  
+2.  
+
+### The steel rope shall have high resistance to abrasion to withstand the wear and tear caused by frequent contact with the pulleys and drum. The wire should be capable of withstanding repeated bending and flexing over the pulleys and drum without developing fatigue cracks. This ensures a long service life even under continuous operation.Rope material
+
+1.  
+2.  1.  
+    2.  
+    3.  
+    4.  
+
+### <span class="mark">Given the exposure to moisture and other corrosive eleFDSVSDFBts, the steel wire shall be made of corrosion-resistant material, such as stainless steel.</span> <span class="mark">The selected rope, verified through the calculations in this docuFDSVSDFBt, meets the following specifications:Construction: 6x36 IWRC (Independent Wire Rope Core)Material: AISI 316 Stainless SteelGrade: 1570 N/mm²</span>Rope calculation
+
+1.  <span class="mark"></span>
+
+2.  <span class="mark">For the rope selection these calculations shall
+    be done accordingly</span> <span class="mark">with</span>
+    <span class="mark">EN 13001-2 \[4\] and EN 13001-3-2 \[5\]. For the
+    proof of static strength, it shall be proven that for all relevant
+    load combinations of EN 13001-2</span>
+    ``` math
+    F_{Sd,s} \leq F_{Rd,s}
+    ```
+
+<!-- -->
+
+30. <span class="mark">Where:</span>
+
+    1.  
+    2.  
+
+31. $`F_{Sd,s}`$ <span class="mark">is the design rope
+    force.</span>$`F_{Rd,s}`$ <span class="mark">is the limit design
+    rope force.The worst-case scenario is the "Rig production seismic
+    accident". The design rope force is calculated based on the
+    accidental load mass and the factors defined in EN 13001-3-2.</span>
+
+#### Design rope force
+
+1.  
+
+The design rope force $`F_{Sd}`$ in vertical hoisting shall be
+calculated as follows:
+
+``` math
+F_{Sd} = \frac{m_{Hr}\ .\ g}{n_{f}}\  \bullet \varphi \bullet f_{S1} \bullet f_{S2} \bullet f_{S3} \bullet \gamma_{p} \bullet \gamma_{n}
+```
+
+32. Where:
+
+    1.  
+    2.  
+
+    <!-- -->
+
+    1.  
+    2.  
+    3.  
+    4.  
+    5.  
+
+33. $`m_{Hr}`$ is the mass of the hoist load or that part of the mass of
+    the hoist load that is acting on the rope.$`g`$ is the gravity
+    constant.$`n_{f}`$ is the number of falls carrying
+    $`m_{Hr}`$.$`\varphi`$ is the dynamic factor for inertial and
+    gravity effects.$`f_{S1}`$ to $`f_{S3}`$ are the rope force
+    increasing factors.$`\gamma_{p}`$ is the partial safety factor, 1.34
+    for regular loads, in reference \[5\].$`\gamma_{n}`$ is the risk
+    coefficient.For the dynamic factor according to reference \[5\]:
+
+34. $`\varphi = 1 + \ \delta`$
+
+    1.  
+
+35. With$`0 < \ \delta < 0.1`$
+
+    1.  
+
+36. The maximum values of $`\delta`$ from the Formula shall be used. See
+    reference \[4\], title 4.2.2 Regular loads.For rope increasing
+    factors. See EN 13001-3-2 section 5.2.3 to 5.2.5, in reference \[5\]
+    .
+
+    1.  
+    2.  
+    3.  
+
+37. $`f_{S1}`$ equal to 1 $`f_{S2}`$ equal to
+    1$`f_{S3\ } = 1 + \ \frac{F_{h}}{m_{H}\  \bullet g\  \bullet \tan\gamma} \leq 2`$
+    . See reference \[5\] Table 8.Where:
+
+    1.  
+    2.  
+    3.  
+    4.  
+
+38. $`F_{h}`$ is the horizontal force on the hoist load.$`m_{H}`$ is the
+    mass of the hoist load.$`g`$ is the gravity constant.$`\gamma`$ is
+    the angle between gravity and the rope projected in the plane of
+    $`F_{h}`$ and $`g`$.$`\gamma_{n}`$ is the risk coefficient, with a
+    value within the range from 1,0 to 2,0. Guidance is given in Annex D
+    of EN 13001-2 \[4\].
+
+Table 7 Annex D from EN 13001-2 \[4\]
+
+<img
+src="secrect_path_media/media/image11.png"
+style="width:4.76045in;height:2.55906in"
+alt="Tabla Descripción generada automáticaFDSVSDFBte" />
+
+Figure 5 Horizontal loads on lifting.
+
+39. 
+
+40. The selected force increasing factors are showed in the Table 8.
+
+| **Force increasing factors** |   ** ** |
+|:-----------------------------|--------:|
+| Fh \[N\]                     | 1588.63 |
+| $`m_{Hr}`$ \[kgf\]           |  400.00 |
+| g \[m/s2\]                   |    9.81 |
+|                              
+ ``` math                      
+ \gamma                        
+ ```                           |    6.70 |
+| **Results**                  |   ** ** |
+|                              
+ ``` math                      
+ f_{S3\ }                      
+ ```                           |    1.91 |
+
+Table 8 Force increasing factor Fs3
+
+All selected force increasing factors and force results are shown in the
+**.**
+
+Table 9 **.**
+
+<table style="width:46%;">
+<caption><p><span class="math display"><sub></sub></span> <span
+class="math display"><sub></sub></span> <span
+class="math display"><sub></sub></span> <span
+class="math display"><sub></sub></span> <span
+class="math display"><sub></sub></span> <span
+class="math display"><sub></sub></span> <span
+class="math inline"><sub></sub></span> Table 9 Steel wire rope design
+force EN 13001-3-2</p></caption>
+<colgroup>
+<col style="width: 29%" />
+<col style="width: 16%" />
+</colgroup>
+<thead>
+<tr>
+<th>Mhr [kgf]</th>
+<th>1020.51</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>g [m/s^2]</td>
+<td>9.81</td>
+</tr>
+<tr>
+<td>nf number of falls (ropes)</td>
+<td>1.00</td>
+</tr>
+<tr>
+<td>φ</td>
+<td>1.01</td>
+</tr>
+<tr>
+<td>F_s1</td>
+<td>1.03</td>
+</tr>
+<tr>
+<td>F_s2</td>
+<td>1.00</td>
+</tr>
+<tr>
+<td>F_s3</td>
+<td>1.00</td>
+</tr>
+<tr>
+<td>Ppartial safety factor</td>
+<td>1.34</td>
+</tr>
+<tr>
+<td>Risk coefficient</td>
+<td>1.60</td>
+</tr>
+<tr>
+<td>Results</td>
+<td></td>
+</tr>
+<tr>
+<td><strong>Fsd [N]</strong></td>
+<td><strong>22,320.03</strong></td>
+</tr>
+<tr>
+<td>Fsd [kN]</td>
+<td>22.32</td>
+</tr>
+<tr>
+<td>Fsd [kg]</td>
+<td>2,275.23</td>
+</tr>
+<tr>
+<td><table style="width:2%;">
+<colgroup>
+<col style="width: 1%" />
+</colgroup>
+<tbody>
+<tr>
+<td></td>
+</tr>
+<tr>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+41. The limit design rope force FRd,s​ is calculated as:
+
+    ``` math
+    _{}\frac{_{}}{\gamma_{}}
+    ```
+
+42. Values are shown in Table 10.
+
+| Fu \[kN\]     | 80    |
+|---------------|-------|
+| Gamma_rb      | 1.96  |
+| F_Rd,s \[kN\] | 40.83 |
+
+Table 10 Limit design rope force
+
+43. The selected rope is verified against the static accidental load
+
+    ``` math
+    _{} \leq_{} \Rightarrow \leq
+    ```
+
+44. The Utilization Ratio for the static accidental load is 55%.
+
+#### Proof of fatigue strength
+
+1.  
+
+<!-- -->
+
+45. For the proof of fatigue strength, it shall be proven
+    that$`F_{Sdf} \leq F_{Rdf}`$
+
+46. Where:
+
+    1.  
+    2.  
+
+47. $`F_{Sdf}`$ is the design rope force for fatigue,$`F_{Rdf}`$ is the
+    limit design rope force for fatigue.For vertical hoisting:
+
+48. 
+
+``` math
+F_{Sd,f} = \frac{m_{Hr}\ .\ g}{n_{f}}\  \bullet \varphi^{*} \bullet {f_{S2}}^{*} \bullet {f_{S3}}^{*}
+```
+
+49. Where:
+
+    1.  
+    2.  
+    3.  
+    4.  
+    5.  
+
+50. $`m_{Hr}`$ is the mass of the hoist load ($`m_{H}`$) or that part of
+    the mass of the hoist load that is acting on the rope,$`g`$ is the
+    gravity constant,$`n_{f}`$ is the number of falls carrying
+    $`m_{Hr}`$,$`\varphi^{*}`$ is the dynamic factor for inertial and
+    gravity effects,$`{f_{S2}}^{*}`$, $`{f_{S3}}^{*}`$ are the rope
+    force increasing factors.the dynamic factors $`\varphi^{*}`$ may be
+    calculated by
+
+    ``` math
+    \varphi^{}\sqrt[]{\frac{()\phi^{}}{}}
+    ```
+
+51. 
+
+52. $`^{}`$$``$ <span class="mark">The number of relevant
+    bendings</span> $`w`$ <span class="mark">of a rope during a single
+    lifting moveFDSVSDFBt shall be determined for the most unfavorable
+    section of the rope. According to Annex A of EN 13001-3-2 \[5\], the
+    number of relevant bendings is</span> <span class="mark">5.</span>
+
+Figure 6: Number of relevant bendings
+
+53. <img
+    src="secrect_path_media/media/image13.png"
+    style="width:3.03167in;height:3.563in"
+    alt="Diagrama El contenido generado por IA puede ser incorrecto." />$`\phi`$<span class="mark">:
+    This is the *static* dynamic factor for inertial and gravity effects
+    for the regular load condition, as defined in section
+    5.2.2.</span>$``$
+
+    ``` math
+    ```
+
+    ``` math
+    \varphi^{*}\, = \, 1.02
+    ```
+
+54. 
+
+55. 
+
+56. 1.  
+    2.  
+
+57. 
+
+58. 
+
+|     |     |
+|:----|----:|
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+
+59. 
+
+60. 
+
+61. $`{_{}}^{}`$
+    $`{_{}}^{}\left\lbrack \frac{}{_{}} \right\rbrack\left( \frac{_{}_{}}{_{}_{}} \right)^{}`$
+    $`_{}`$$`_{}`$$`_{}`$$`_{}`$$`{_{}}^{}`$ $`{_{}}^{}`$
+    ``` math
+    ```
+    ``` math
+    _{}
+    ```
+    ``` math
+    _{}
+    ```
+    ``` math
+    _{}
+    ```
+    ``` math
+    {_{}}^{}
+    ```
+    $`{_{}}^{}`$ $`{_{}}^{}_{}`$ <span class="mark">With all
+    coefficients determined</span> $`F_{Sd,f}`$ <span class="mark">is
+    calculated with the values in Table 11.</span>
+
+| **<span class="mark">Proof of fatigue strength</span>** | **<span class="mark"> </span>** |
+|:---|---:|
+| <span class="mark">Mhr \[kgf\]</span> | <span class="mark">245.00</span> |
+| <span class="mark">g \[m/s2\]</span> | <span class="mark">9.81</span> |
+| 
+``` math
+n_{f}
+``` | <span class="mark">1</span> |
+| 
+``` math
+\varphi^{*}
+``` | <span class="mark">1.02</span> |
+| 
+``` math
+{f_{S2}}^{*}
+``` | <span class="mark">1</span> |
+| 
+``` math
+{f_{S3}}^{*}
+``` | <span class="mark">1.91</span> |
+| **<span class="mark">Results</span>** | **<span class="mark"> </span>** |
+| 
+``` math
+F_{Sd,f}
+``` | <span class="mark">2451.52</span> |
+
+Table 11 $`\mathbf{F}_{\mathbf{Sd,f}}\mathbf{\ }`$Proof of fatigue
+strength
+
+#### Limit Design Rope Force for Fatigue 
+
+1.  This is calculated according to EN 13001-3-2, section 6.3.12:
+    ``` math
+    _{}\frac{_{}}{\sqrt[]{_{}} \cdot \gamma_{}} \cdot_{}
+    ```
+
+<!-- -->
+
+62. Where:
+
+- 
+- 
+- 
+- 
+- - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+
+<table style="width:30%;">
+<caption><p><span class="math inline"><sub></sub></span> (Minimum
+breaking force of the selected 12mm rope).<span
+class="math inline"><em>γ</em><sub></sub></span> (Minimum rope
+resistance factor for fatigue).<span
+class="math inline"><sub></sub></span> Is the rope force history
+parameter <span class="math inline"><sub></sub></span> is the factor for
+further influences = <span
+class="math inline"><sub></sub>⋅<sub></sub>⋅<sub></sub>⋅<sub></sub>⋅<sub></sub>⋅<sub></sub>⋅<sub></sub></span><span
+class="math inline"><sub><sub></sub></sub></span><span
+class="math inline">$_{}\frac{\frac{}{}}{_{}}$</span> = 0.8<span
+class="math inline"><sub></sub></span> (Since <span
+class="math inline"><sub></sub></span><span
+class="math inline"><sub></sub></span> Assuming max fleet angle 2°<span
+class="math inline"><sub></sub></span> Assuming not lubricated rope<span
+class="math inline"><sub></sub></span>Assuming single layer drum<span
+class="math inline"><sub></sub></span> Assuming optimal groove
+radius<span class="math inline"><sub></sub></span> Assuming standard
+rope typeValues are show in <span class="math inline"></span>Table 12
+Limit design rope force fatigue</p></caption>
+<colgroup>
+<col style="width: 16%" />
+<col style="width: 13%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="2">Limit design rope force fatigue</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Fu [kN]</td>
+<td>80</td>
+</tr>
+<tr>
+<td><span class="math display"><sub></sub></span></td>
+<td>1</td>
+</tr>
+<tr>
+<td><span class="math display"><sub></sub></span></td>
+<td>7</td>
+</tr>
+<tr>
+<td><span class="math display"><sub></sub></span></td>
+<td>0,33</td>
+</tr>
+<tr>
+<td><span class="math inline"><sub></sub></span> [N]</td>
+<td>3773.43</td>
+</tr>
+<tr>
+<td>Factor <span class="math inline"><sub></sub></span></td>
+<td></td>
+</tr>
+<tr>
+<td><span class="math display"><sub></sub></span></td>
+<td>25,55</td>
+</tr>
+<tr>
+<td><span class="math display"><sub></sub></span></td>
+<td>0,88</td>
+</tr>
+<tr>
+<td><span class="math display"><sub></sub></span></td>
+<td>1</td>
+</tr>
+<tr>
+<td><span class="math display"><sub></sub></span></td>
+<td>0,75</td>
+</tr>
+<tr>
+<td><span class="math display"><sub></sub></span></td>
+<td>0,5</td>
+</tr>
+<tr>
+<td><span class="math display"><sub></sub></span></td>
+<td>1</td>
+</tr>
+<tr>
+<td><span class="math display"><sub></sub></span></td>
+<td>1</td>
+</tr>
+<tr>
+<td><span class="math display"><sub></sub></span></td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
+
+63. 
+    ``` math
+    _{}_{}
+    ```
+    The selected rope is verified against the fatigue accidental load
+
+    ``` math
+    _{}_{}
+    ```
+
+64. The Utilization Ratio for the static accidental load is 65%.
+
+## Rope selection criteria
+
+1.  
+
+<!-- -->
+
+65. The rope selected for this application is an 8mm diameter rope from
+    the supplier CASAR, in reference \[7\], the characteristics of the
+    rope are in Table 13.The selected rope is flexible with a high
+    breaking load. It is a hoist rope for electrical hoist and other
+    lifting devices.
+
+### Rope characteristics
+
+1.  
+
+| **<span class="mark">Rope characteristics</span>** | **<span class="mark"> </span>** |
+|----|----|
+| <span class="mark">Rope diameter \[mm\]</span> | <span class="mark">12</span> |
+| <span class="mark">Weight \[kg/m\]</span> | <span class="mark">0.73</span> |
+| <span class="mark">Minimum breaking force</span> <span class="mark">1570</span> <span class="mark">N/mm2 \[kN\]</span> | <span class="mark">80</span> |
+| <span class="mark">Drum diameter \[mm\]</span> | <span class="mark">240</span> |
+
+The rope characteristics are shown in the Table 13. Table 13 Rope
+characteristics.Table 13 Rope characteristics.
+
+### 
+
+1.  
+
+<!-- -->
+
+66. 
+
+<!-- -->
+
+2.  1.  
+    2.  
+
+<table style="width:89%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr>
+<th><ol start="67" type="1">
+<li></li>
+</ol></th>
+<th><ol start="68" type="1">
+<li></li>
+</ol></th>
+<th><ol start="69" type="1">
+<li></li>
+</ol></th>
+<th><ol start="70" type="1">
+<li></li>
+</ol></th>
+<th><ol start="71" type="1">
+<li></li>
+</ol></th>
+<th><ol start="72" type="1">
+<li></li>
+</ol></th>
+<th><ol start="73" type="1">
+<li></li>
+</ol></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><ol start="74" type="1">
+<li></li>
+</ol></td>
+<td><ol start="75" type="1">
+<li></li>
+</ol></td>
+<td><ol start="76" type="1">
+<li></li>
+</ol></td>
+<td><ol start="77" type="1">
+<li></li>
+</ol></td>
+<td><ol start="78" type="1">
+<li></li>
+</ol></td>
+<td><ol start="79" type="1">
+<li></li>
+</ol></td>
+<td><ol start="80" type="1">
+<li></li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+81. 
+
+|     |     |
+|:----|----:|
+|     |     |
+|     |     |
+|     |     |
+
+82. 
+83. 
+
+## Drum selection
+
+1.  $`_{}`$$`_{}\frac{_{}}{_{}}`$ $`_{}`$ $`_{}`$$`_{}`$$`_{}`$ $`_{}`$
+    ``` math
+    _{}
+    ```
+    $`_{}`$ $`_{}_{}`$
+
+<!-- -->
+
+84. The drum diameter is determined based on the safety ratio between
+    the rope diameter and the drum. The drum diameter should be at least
+    20 times the diameter of the rope.The requireFDSVSDFBt for a drum
+    diameter to be at least 20 times the diameter of the rope is based
+    on industry standards and guidelines.
+
+## Lifting Calculations
+
+1.  The formula for calculating torque (T) in elevation moveFDSVSDFBts using
+    wire ropes is given by:
+    ``` math
+    T = F\  \times r
+    ```
+
+2.  1.  
+
+    2.  
+
+    3.  
+
+    4.  Where:$`T`$ is the torque required for lifting.$`r`$ is the
+        radius of the pulley or drum.$`F`$ is the force required to lift
+        the load.Given the velocity of elevation and the diameter of the
+        pulley, the rotational speed (in revolutions per minute, RPM)
+        required for the motor can be determined using the formula:
+        ``` math
+        RPM = \frac{(velocity \times 60)}{2\pi \times r}
+        ```
+
+## Lifting torque results
+
+1.  <span class="mark"></span>
+
+| **Rope Lifting operation** |          | **Units** |
+|----------------------------|----------|-----------|
+| Drum diameter              | 240      | mm        |
+| Drum radius                | 120      | mm        |
+| Linear velocity            | 8,00     | m/min     |
+| Load                       | 10011,20 | N         |
+| Results                    |          |           |
+| Angular velocity           | 10,61    | RPM       |
+| Torque                     | 1201,34  | Nm        |
+| Power                      | 1,33     | kW        |
+
+<span class="mark">The lifting torque results are showed in the Table
+14.</span>Table 14 Lifting calculation results.
+
+|     |     |
+|:----|----:|
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+|     |     |
+
+## Drive lifting moveFDSVSDFBt selection
+
+1.  <span class="mark"></span>
+
+### <span class="mark">Following the results obtain in Table 14</span> <span class="mark">a bevel gear reduction was selected to</span> <span class="mark">reduce the size of the gearmotor.Bevel Gear Transmission</span>
+
+1.  
+
+<!-- -->
+
+85. <span class="mark">To transmit torque from the final gearmotor to
+    the drum shaft, a bevel gear set is used. This allows for a
+    90-degree change in direction and provides an additional speed
+    reduction. The system is designed with a 3:1 reduction ratio.The
+    selected material for both the pinion and the crown gear is</span>
+    <span class="mark">1.4125 +QT EN 10088-5 Stainless Steel, hardened
+    to 56-58 HRC.</span>
+
+#### <span class="mark">Bevel Gear Geometry</span>
+
+1.  
+
+| **Parameter**              | **Pinion (13T)** | **Crown Gear (39T)** | **Unit** |
+|----------------------------|------------------|----------------------|----------|
+| Number of Teeth (Z)        | 13               | 39                   | \-       |
+| Circular Module (M)        | 6                | 6                    | \-       |
+| Pitch Angle (δ)            | 18.44            | 71.57                | deg      |
+| Pitch Diameter (Dp​)        | 78.0             | 234.0                | mm       |
+| Outside Diameter           | 94.1             | 236.2                | mm       |
+| Cone Distance (Generatrix) | \-               | 123.33               | mm       |
+| Face Width (b)             | 25.0             | 25.0                 | mm       |
+| Addendum                   | 8.46             | 3.54                 | mm       |
+| Dedendum                   | 4.67             | 9.59                 | mm       |
+
+<span class="mark">The geometric parameters for the 3:1 gear set, based
+on a circular module of 6, are detailed in</span>
+<span class="mark">Table 15.</span>Table 15 Bevel Gear Set Geometric
+Data
+
+#### Bending Strength Verification
+
+1.  
+
+<!-- -->
+
+86. <span class="mark">The gear set's competence</span>
+    <span class="mark">shall be</span> <span class="mark">verified
+    against bending failure. The calculation determines the maximum
+    dynamic load</span>
+    *<span class="mark">"</span>*$`\left(_{}_{()} \right)"`$
+    <span class="mark">expected during operation and compares it to the
+    allowable bending strength of the gear tooth
+    (</span>$`_{}`$<span class="mark">).</span> <span class="mark">The
+    design</span> <span class="mark">shall</span>
+    <span class="mark">be:</span>
+
+    $`_{}_{}`$ <span class="mark"></span>
+
+87. <span class="mark">The calculation parameters and results are shown
+    in</span> <span class="mark">Table 16.</span>
+
+| Parameter                      | Symbol   | Value   | Unit   |
+|--------------------------------|----------|---------|--------|
+| Inputs                         |          |         |        |
+| Tangential Force (from Torque) |          
+                                  ``` math  
+                                  _{}       
+                                  ```       | 800.1   | kgf    |
+| Pitch Line Velocity            | $`_{}`$​  | 7.6     | m/min  |
+| Dynamic Factor                 |          
+                                  ``` math  
+                                  _{}       
+                                  ```       | 1.10    | \-     |
+| Service Factor                 |          
+                                  ``` math  
+                                  _{}       
+                                  ```       | 1.2     | \-     |
+| Mounting Factor                |          
+                                  ``` math  
+                                  _{}       
+                                  ```       | 1.1     | \-     |
+| Calculations                   |          |         |        |
+| Calculated Dynamic Load        |          
+                                  ``` math  
+                                  _{}       
+                                  ```       | 1,161.6 | kgf    |
+| Allowable Bending Stress       |          
+                                  ``` math  
+                                  _{}       
+                                  ```       | 3100.0  | kg/cm² |
+| Geometry Factor                |          
+                                  ``` math  
+                                  ```       | 225     | \-     |
+| Reliability Factor             |          
+                                  ``` math  
+                                  _{}       
+                                  ```       | 1.12    | \-     |
+| Allowable Bending Strength     |          
+                                  ``` math  
+                                  _{}       
+                                  ```       | 13,583  | kgf    |
+
+<span class="mark">Table</span> <span class="mark">16 Bevel Gear Bending
+Strength Calculation</span>
+
+88. <span class="mark">The calculated dynamic load is lower than the
+    allowable bending strength of the material</span>
+
+    ``` math
+    _{}_{}
+    ```
+
+### Drum Shaft verification
+
+1.  
+
+<span class="mark">The drum shaft shall be verified for the Seismic
+Accident load case. The shaft shown in</span> <span class="mark">Figure
+7, constructed from 1.4125 +QT EN 10088-5 Stainless Steel, supports the
+drum and transmits the lifting torque while resisting loads from cable
+tension and gear reactions. The following analysis is based on the
+maximum forces and moFDSVSDFBts acting on the shaft during this event, as
+detailed in</span> Table 17<span class="mark">.</span>Figure 7: Drum
+Shaft
+
+| Load Description | <span class="mark">Value</span> | <span class="mark">Unit</span> |
+|----|----|----|
+| <span class="mark">Torsional MoFDSVSDFBt</span> | <span class="mark">1201</span> | <span class="mark">Nm</span> |
+| <span class="mark">Axial Load</span> | <span class="mark">3730</span> | <span class="mark">N</span> |
+| <span class="mark">Radial Load</span> | <span class="mark">10000</span> | <span class="mark">N</span> |
+
+<img
+src="secrect_path_media/media/image16.png"
+style="width:5.90625in;height:1.31042in"
+alt="Imagen que contiene Aplicación El contenido generado por IA puede ser incorrecto." />Table
+17 Drum Shaft Loads
+
+### Resultant Forces on Bearings and selection
+
+1.  
+
+<!-- -->
+
+89. <span class="mark">The operation of the bevel gear set generates
+    tangential, radial, and axial forces that shall be supported by the
+    bearings on the drum shaft.The calculated maximum forces acting on
+    the crown gear bearings are:</span>
+
+    1.  
+    2.  
+
+90. <span class="mark">Axial Force</span>
+    $`_{}`$<span class="mark">Radial Force
+    (</span>$`_{}`$<span class="mark">)Values are shown in</span>
+    <span class="mark">Table 20.</span>
+
+91. The drum shaft shall be supported by bearings capable of handling
+    the loads from the cable tension and the bevel gear reactions.
+
+92. The primary loads are:
+
+    1.  
+    2.  
+
+93. Radial Load from Cable TensionRadial and Axial Loads from Bevel
+    GearTo provide support, SKF Pillow Block Ball Bearing Units model
+    P2BTSS 40M are selected see Figure 8. These units are made from
+    stainless steel and can handle the combined radial and axial loads.
+    Values are shown in Table 19.
+
+| Bearings                               |      | Units |
+|----------------------------------------|------|-------|
+| Radial Load from Cable Tension         | 10   | kN    |
+| Radial and Axial Loads from Bevel Gear | 3,73 | kN    |
+
+Table 18 Forces on Bearings
+
+Figure 8: Pillow block ball bearing P2BTSS 40M-TPSS
+
+| SKF P2BTSS 40M            |     |           |
+|---------------------------|-----|-----------|
+| Basic dynamic load rating | C   | 24.7 kN   |
+| Basic static load rating  | C0  | 19 kN     |
+| Fatigue load limit        | Pu  | 0.8 kN    |
+| Limiting speed            |     | 500 r/min |
+
+<img
+src="secrect_path_media/media/image17.jpeg"
+style="width:2.83207in;height:1.9685in"
+alt="P2BTSS 40M-TPSS - Ball bearing units" />Table 19 Bearing SKF P2BTSS
+40M
+
+2.  
+
+|     |     |     |
+|:----|:---:|:----|
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+|     |     |     |
+
+## Drive Lifting Motor Selection
+
+1.  
+
+    <span class="mark">Based on the required lifting</span>
+    <span class="mark">speed and</span> <span class="mark">the drum
+    diameter, the drum rotation speed is calculated as:</span>
+    ``` math
+    _{}\frac{}{\pi \times}\frac{}{\pi \times} \approx
+    ```
+
+<!-- -->
+
+94. <span class="mark">The torque required at the drum is calculated
+    using the</span> <span class="mark">accidental.</span>
+
+95. <span class="mark">Considering the bevel gear reduction with an
+    estimated efficiency</span>
+    $`\left( \eta_{} \approx \right)`$<span class="mark">, the required
+    input speed and torque for the final gearmotor are:</span>
+
+    ``` math
+    _{}_{} \times \times
+    ```
+
+    ``` math
+    _{}\frac{_{}}{\times \eta_{}}\frac{}{\times} \approx
+    ```
+
+96. <span class="mark">The selected gearmotor is a SEW Eurodrive model
+    SA57pDRN90S4BE2</span> <span class="mark">with the following
+    characteristics. See</span> <span class="mark">Table 20.</span>
+
+| **Characteristics** | **Value** | **Unit** |
+|:---|:--:|:---|
+| <span class="mark">Nominal motor speed</span> | <span class="mark">1455</span> | <span class="mark">1/min</span> |
+| <span class="mark">Output speed</span> | <span class="mark">31</span> | <span class="mark">1/min</span> |
+| <span class="mark">Total reduction ratio</span> | <span class="mark">47.32</span> | <span class="mark"> </span> |
+| <span class="mark">Output torque</span> | <span class="mark">305</span> | <span class="mark">Nm</span> |
+| <span class="mark">Service factor SEW-FB</span> | <span class="mark">1.15</span> | <span class="mark"> </span> |
+| <span class="mark">Lubricant quantity 1st reducer</span> | <span class="mark">0.5</span> | <span class="mark">Liter</span> |
+| <span class="mark">Motor power</span> | <span class="mark">1.1</span> | <span class="mark">kW</span> |
+| <span class="mark">Duty factor</span> | <span class="mark">S1-100%</span> | <span class="mark"> </span> |
+| <span class="mark">Efficiency class</span> | <span class="mark">IE3</span> | <span class="mark"> </span> |
+| <span class="mark">Net weight</span> | <span class="mark">37.6</span> | <span class="mark">Kg</span> |
+
+Table 20 Lifting gearmotor characteristics.
+
+## Pulley Shaft analysis
+
+1.  
+
+<span class="mark">The</span> <span class="mark">guiding</span>
+<span class="mark">pulleys</span> <span class="mark">mounted on a shaft.
+An analysis shall be performed to verify the structural integrity of
+this shaft under the applied loads. The analysis considers the resultant
+force from the cable tension acting over the pulley and the weight of
+the pulley itself.</span> <span class="mark">See</span> Figure 9: Pulley
+shafts
+
+<img
+src="secrect_path_media/media/image18.png"
+style="width:2.85984in;height:3.14961in"
+alt="Diagrama El contenido generado por IA puede ser incorrecto." />
+
+97. <span class="mark">The maximum cable tension corresponds to the
+    accidental load case.</span>
+
+98. <span class="mark">The resultant force from the cable tension acting
+    over the wrap angle is calculated as:</span>
+
+    ``` math
+    _{}\frac{}{}
+    ```
+
+99. <span class="mark">Assuming the shaft is simply supported at
+    its</span> <span class="mark">ends,</span> <span class="mark">and
+    the load is applied in one end, the maximum bending moFDSVSDFBt is
+    calculated.</span> <span class="mark">Then a shaft that satisfied
+    the following formula shall be selected:</span>
+
+    ``` math
+    \sqrt[]{\frac{_{}}{_{}}}
+    ```
+
+100. <span class="mark">The calculations are in</span>
+     <span class="mark">Table 21.</span>
+
+| <span class="mark">Cable Tension (T)</span> | <span class="mark">10.011,20</span> | <span class="mark">N</span> |
+|----|----|----|
+| <span class="mark">Wrap Angle (θ)</span> | <span class="mark">90</span> | <span class="mark">°</span> |
+| <span class="mark">Pulley Weight (Wp)</span> | <span class="mark">10</span> | <span class="mark">N</span> |
+| <span class="mark">Distance between supports (L)</span> | <span class="mark">0,08</span> | <span class="mark">m</span> |
+| <span class="mark">Support-to-pulley distance (a)</span> | <span class="mark">0,04</span> | <span class="mark">m</span> |
+| <span class="mark">Shaft Diameter (d)</span> | <span class="mark">30</span> | <span class="mark">mm</span> |
+| <span class="mark">RESULTS</span> |  |  |
+| <span class="mark">Resultant Force (F_resultant) \[N\]</span> | <span class="mark">14157,97</span> | <span class="mark">N</span> |
+| <span class="mark">Total Force on Shaft (F_total) \[N\]</span> | <span class="mark">14167,97</span> | <span class="mark">N</span> |
+| <span class="mark">Max. Bending MoFDSVSDFBt (M_max) \[Nm\]</span> | <span class="mark">283,36</span> | <span class="mark">Nm</span> |
+| <span class="mark">Bending Stress (σ_bending) \[MPa\]</span> | <span class="mark">106,90</span> | <span class="mark">MPa</span> |
+| <span class="mark">Pulley Calculation</span> |  | <span class="mark">Units</span> |
+| <span class="mark">Tension 1 (T1) \[N\]</span> | <span class="mark">14167,97</span> | <span class="mark">N</span> |
+| <span class="mark">Pulley Weight (Wp) \[N\]</span> | <span class="mark">10</span> | <span class="mark">N</span> |
+| <span class="mark">Distance between supports (L) \[m\]</span> | <span class="mark">0,08</span> | <span class="mark">m</span> |
+| <span class="mark">Support-to-pulley distance (a) \[m\]</span> | <span class="mark">0,04</span> | <span class="mark">m</span> |
+| <span class="mark">Yield Strength (Sy) \[MPa\]</span> | <span class="mark">400</span> | <span class="mark">Mpa</span> |
+| <span class="mark">Safety Factor (N)</span> | <span class="mark">2</span> |  |
+| <span class="mark">RESULTS</span> |  |  |
+| <span class="mark">Total Force (F_total) \[N\]</span> | <span class="mark">14177,97</span> | <span class="mark">N</span> |
+| <span class="mark">Max. Bending MoFDSVSDFBt (M_max) \[Nm\]</span> | <span class="mark">283,5594132</span> | <span class="mark">Nm</span> |
+| <span class="mark">Allowable Stress (σ_adm) \[MPa\]</span> | <span class="mark">200</span> | <span class="mark">Mpa</span> |
+| **<span class="mark">Minimum Diameter (d) \[mm\]</span>** | **<span class="mark">24,352</span>** | **<span class="mark">mm</span>** |
+
+Table 21 Pulley shaft calculations
+
+101. <span class="mark">A diameter of 30 mm was selected for the
+     pulleys.</span>
+
+## Drive System Support Shaft
+
+102. <span class="mark">The lifting Drive system is supported</span>
+     <span class="mark">by</span> <span class="mark">the
+     Inspection</span> <span class="mark">Bridge,</span>
+     <span class="mark">and it is hanging from a Shaft.</span>
+     <span class="mark">See figure</span> <span class="mark">Figure
+     10.</span>
+
+103. <span class="mark">This shaft transfers all vertical loads (weight,
+     cable tension) and horizontal loads (seismic effects, operational
+     forces) to the supporting structure via two main radial
+     bearings</span> <span class="mark">and a axial bearing.</span>
+
+Figure 10: Lifting Drive System with shaft
+
+### <img
+src="secrect_path_media/media/image19.png"
+style="width:4.12165in;height:3.93701in"
+alt="Diagrama El contenido generado por IA puede ser incorrecto." />Shaft Material and Properties
+
+1.  
+
+<!-- -->
+
+104. <span class="mark">The shaft is manufactured from Type 440C
+     Stainless Steel (UNS S44004) in the Annealed condition. See</span>
+     <span class="mark">Table 22.The relevant material properties used
+     for this analysis are:</span>
+
+     1.  
+     2.  
+
+105. <span class="mark">0.2% Yield Strength</span> $`_{}`$
+     <span class="mark">450 MPaTensile Strength: 760 MPaA general design
+     safety factor (N) of 1.5 and a material partial factor
+     (</span>$`\gamma_{m}`$<span class="mark">) of 1.1</span>
+     <span class="mark">from</span> <span class="mark">EN 13001-1 for
+     resistance coefficient are considered for determining the allowable
+     stress.</span>
+
+106. <span class="mark">The structural integrity of the shaft shall be
+     verified under the most demanding load case, the Seismic Accident
+     scenario. This scenario combines the self-weight of the Drive
+     System (DS Weight), the maximum accidental cable tension, and the
+     horizontal inertial forces due to seismic acceleration.</span>
+
+### Shaft Diameter and Stress Verification
+
+1.  
+
+| Material            | Type 440C (UNS S44004) | Units |
+|---------------------|------------------------|-------|
+| Condition           | Annealed               |       |
+| Tensile Strength    | 760                    | MPa   |
+| 0.2% Yield strength | 450                    | MPa   |
+| Rockwell hardness   | 97                     | HRB   |
+| Safety factor N     | 1,5                    |       |
+
+<span class="mark">The analysis to determine the loads in the</span>
+<span class="mark">shaft</span> <span class="mark">involves the loads
+shown in the</span> <span class="mark">Figure 11.</span>
+<span class="mark">This diagram illustrates the applied loads, including
+the Drive System weight (DS Weight), the maximum cable tension (Cable),
+the horizontal seismic effect, and the resulting bearing reactions (Ry,
+R1, R2).</span> Table 22 Drive System Main Shaft Material
+
+107. <span class="mark">The analysis based on this Free Body Diagram is
+     used to determine the internal bending moFDSVSDFBts and shear forces
+     within the shaft.</span> <span class="mark">The calculated values
+     for these forces and moFDSVSDFBts are presented in Table Y below.</span>
+
+Figure 11: Free Body Diagram of the Drive System Support Shaft
+
+<img
+src="secrect_path_media/media/image20.png"
+style="width:5.90625in;height:4.18611in"
+alt="Diagrama El contenido generado por IA puede ser incorrecto." />
+
+| **Drive System** | **Accident** | **Units** |
+|------------------|--------------|-----------|
+| Mass             | 172          | Kg        |
+| Acceleration     | 29,684       | m/s^2     |
+| **DS Weight**    | **5105,648** | **N**     |
+| **L_DS**         | **239,85**   | **Mm**    |
+| **Cable**        | **Accident** | **Units** |
+| Basket           | 12,3         | Kg        |
+| Arm              | 206,5        | Kg        |
+| Rig              | 2            | Kg        |
+| AAM              | 110,4        | Kg        |
+| Total Mass       | 331,2        | Kg        |
+| Acceleration     | 29,684       | m/s^2     |
+| **Cable**        | **9831,34**  | **N**     |
+| **L_Cable**      | **300**      | **mm**    |
+
+Table 23 Seismic Accident Shaft Loads
+
+108. <span class="mark">These loads generate</span>
+     <span class="mark">bending</span> <span class="mark">moFDSVSDFBts on the
+     shaft, shown in</span> <span class="mark">Table 31</span>
+
+| **Accident** |              | **Units** |
+|--------------|--------------|-----------|
+| M_DS         | 1.224.599,46 | Nmm       |
+| M_Cable      | 2.949.402,24 | Nmm       |
+| M_max        | 4.174.001,70 | Nmm       |
+
+Table 24 Bending moFDSVSDFBts in Shaft
+
+109. <span class="mark">The diameter Shaft was calculated with the
+     following formula:</span>
+
+     ``` math
+     \sqrt[]{\frac{_{}}{_{}}}
+     ```
+
+110. <span class="mark">Where:</span>
+
+     1.  
+     2.  
+
+111. <span class="mark"></span>$`_{}`$ <span class="mark">=</span>
+     <span class="mark">400</span> <span class="mark">MPa.</span>$``$
+     <span class="mark">=</span> <span class="mark">47</span>
+     <span class="mark">mmA 55mm shaft was selected</span>
+
+### Shoulder Bearing Stress Calculation
+
+1.  
+
+<!-- -->
+
+112. <span class="mark">Verification of the drive system plate shall be
+     performed to ensure the proper operation of the tray.The shaft is
+     locked</span> <span class="mark">into the tray by a feature called
+     a shoulder. This shoulder must resist the loads resulting from the
+     seismic accident.</span>
+
+113. <span class="mark">The corresponding loads and calculations are
+     shown in</span> <span class="mark">Table 25.</span>
+
+<table style="width:46%;">
+<caption><p>Table 25 Shoulder Bearing Stress Calculation</p></caption>
+<colgroup>
+<col style="width: 29%" />
+<col style="width: 11%" />
+<col style="width: 5%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="3">Shoulder Bearing Stress Calculation</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Axial Load (Faxial​)</td>
+<td>14936,989</td>
+<td>N</td>
+</tr>
+<tr>
+<td>ñ</td>
+<td>70</td>
+<td>mm</td>
+</tr>
+<tr>
+<td>Shaft Diameter (d)</td>
+<td>55</td>
+<td>mm</td>
+</tr>
+<tr>
+<td>Shaft Yield Strength (Sy,shaft​)</td>
+<td>450</td>
+<td>MPa</td>
+</tr>
+<tr>
+<td>Plate Yield Strength (Sy,plate​)</td>
+<td>200</td>
+<td>MPa</td>
+</tr>
+<tr>
+<td>CALCULATIONS</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Bearing Area (A)</td>
+<td>1472,62</td>
+<td>mm²</td>
+</tr>
+<tr>
+<td>Axial Stress (σa​)</td>
+<td>10,14</td>
+<td>MPa</td>
+</tr>
+<tr>
+<td>Results</td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td>Max Bearing Stress (σmax​)</td>
+<td>10,14</td>
+<td>MPa</td>
+</tr>
+<tr>
+<td>Critical Yield Strength (Sy,crit​)</td>
+<td>200,00</td>
+<td>MPa</td>
+</tr>
+<tr>
+<td><strong>Utilization Ratio (Ur)</strong></td>
+<td><strong>0,05</strong></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### Bolts calculation for Drive System Support Frame
+
+1.  
+
+<!-- -->
+
+114. <span class="mark">The Drive System Support Frame is a structure
+     fabricated from welded plates. Its primary function is to support
+     the weight and operational loads of the entire drive system
+     (including rotation and lifting components) and the cable
+     tension.</span> <span class="mark">This frame connects to the
+     inspection bridge structure via 12 M12 bolts, arranged with 6 bolts
+     on each side, shown in</span> <span class="mark">Figure 12. The
+     verification calculations for these connecting bolts</span>
+     <span class="mark">were made under Eurocode 3 (EN 1993-1-8)
+     and</span> <span class="mark">are presented</span>
+     <span class="mark">in</span> <span class="mark">Table 26</span>
+     <span class="mark">with a calculated Utilization Ratio of
+     0.28</span>
+
+Figure 12: Drive System Support Frame connection
+
+| <span class="mark">Bolts Eurocode 3 (EN 1993-1-8)</span> |  | <span class="mark">Units</span> |
+|----|----|----|
+| <span class="mark">Torsion MoFDSVSDFBt (TEd​)</span> | <span class="mark">4.174.001,70</span> | <span class="mark">Nmm</span> |
+| <span class="mark">Shear (VEd​)</span> | <span class="mark">14.937</span> | <span class="mark">N</span> |
+| <span class="mark">Bolt Properties</span> |  |  |
+| <span class="mark">Bolts</span> | <span class="mark">M12, A2-80</span> |  |
+| <span class="mark">Bolt Diameter (d)</span> | <span class="mark">12</span> | <span class="mark">mm</span> |
+| <span class="mark">Hole Diameter (d0​)</span> | <span class="mark">12</span> | <span class="mark">mm</span> |
+| <span class="mark">Tensile Stress Area (As​)</span> | <span class="mark">84,3</span> | <span class="mark">mm²</span> |
+| <span class="mark">Bolt Ultimate Strength (fub​)</span> | <span class="mark">800</span> | <span class="mark">MPa</span> |
+| <span class="mark">αv​ coefficient (Table 3.4)</span> | <span class="mark">0,5</span> |  |
+| <span class="mark">Plates</span> |  |  |
+| <span class="mark">Plate Thickness (t)</span> | <span class="mark">10</span> | <span class="mark">mm</span> |
+| <span class="mark">Plate Ultimate Strength (fu​)</span> | <span class="mark">200</span> | <span class="mark">MPa</span> |
+| <span class="mark">Partial Factor (γM2​)</span> | <span class="mark">1,25</span> |  |
+| <span class="mark">Geometry</span> |  |  |
+| <span class="mark">Number of Bolts (n)</span> | <span class="mark">6</span> |  |
+| <span class="mark">Horiz. Pitch (px​)</span> | <span class="mark">179</span> | <span class="mark">mm</span> |
+| <span class="mark">Vert. Pitch (py​)</span> | <span class="mark">129</span> | <span class="mark">mm</span> |
+| <span class="mark">Horiz. Edge Dist (e2​)</span> | <span class="mark">25</span> | <span class="mark">mm</span> |
+| <span class="mark">Vert. Edge Dist (e1​)</span> | <span class="mark">25</span> | <span class="mark">mm</span> |
+| <span class="mark">Loads and reactions</span> |  |  |
+| <span class="mark">Calculates load on bolt Top-Left</span> |  |  |
+| <span class="mark">∑rj2​ (Sum of radius-sq)</span> | <span class="mark">48682</span> | <span class="mark">mm²</span> |
+| <span class="mark">FV,X​ (Direct Shear X)</span> | <span class="mark">0</span> | <span class="mark">N</span> |
+| <span class="mark">FV,Y​ (Direct Shear Y)</span> | <span class="mark">-2489,50</span> | <span class="mark">N</span> |
+| <span class="mark">FT,X​ (Torsion X)</span> | <span class="mark">-5530,24</span> | <span class="mark">N</span> |
+| <span class="mark">FT,Y​ (Torsion Y)</span> | <span class="mark">7673,74</span> | <span class="mark">N</span> |
+| <span class="mark">Ftotal,X​</span> | <span class="mark">-5530,24</span> | <span class="mark">N</span> |
+| <span class="mark">Ftotal,Y​</span> | <span class="mark">5184,24</span> | <span class="mark">N</span> |
+| <span class="mark">Total Design Load (Fv,Ed​)</span> | <span class="mark">7580,23</span> | <span class="mark">N</span> |
+| <span class="mark">Results</span> |  |  |
+| <span class="mark">A. Bolt Shear Resistance (Fv,Rd​)</span> |  |  |
+| <span class="mark">Fv,Rd​</span> | <span class="mark">26976</span> | <span class="mark">N</span> |
+| <span class="mark">B. Plate Bearing Resistance (Fb,Rd​)</span> |  |  |
+| <span class="mark">αb​</span> | <span class="mark">0,69</span> |  |
+| <span class="mark">k1​</span> | <span class="mark">2,5</span> |  |
+| <span class="mark">Fb,Rd​</span> | <span class="mark">33333,33</span> | <span class="mark">N</span> |
+| <span class="mark">Design Load (Fv,Ed​)</span> | <span class="mark">7580,23</span> | <span class="mark">N</span> |
+| <span class="mark">Design Resistance (FRd​)</span> | <span class="mark">26976,00</span> | <span class="mark">N</span> |
+| **<span class="mark">Utilization Ratio</span>** | **<span class="mark">0,28</span>** | **<span class="mark">28,10%</span>** |
+
+<img
+src="secrect_path_media/media/image21.png"
+style="width:3.5228in;height:3.14961in"
+alt="Diagrama El contenido generado por IA puede ser incorrecto." />Table
+26 Drive System support frame bolts calculation
+
+### Bearing Reactions
+
+1.  1.  
+    2.  
+
+<!-- -->
+
+115. <span class="mark">The analysis also determined the reaction forces
+     on the main support bearings under the seismic accident</span>
+     <span class="mark">conditions:Vertical Reaction
+     (</span>$`_{}`$<span class="mark">): 11.52 kNHorizontal Reactions
+     (</span>$`_{}_{}`$<span class="mark">):</span> $`\pm`$
+     <span class="mark">24.84 kN (These counteract the moFDSVSDFBt caused by
+     the horizontal seismic effect over the bearing span of 135
+     mm).These reaction forces</span> <span class="mark">shall be</span>
+     <span class="mark">used for the selection and verification of the
+     main support bearings.</span> <span class="mark">The
+     selected</span> <span class="mark">bearings</span>
+     <span class="mark">are:</span>
+
+     1.  
+
+<span class="mark">Axial bearing:</span> <span class="mark">Stainless
+Steel Axial Deep Groove Ball Bearing SS 51211 55x90x25 mm.</span>
+<span class="mark">See</span> <span class="mark">Figure 13.</span>Figure
+13: Bearing SS 51211
+
+<img
+src="secrect_path_media/media/image22.png"
+style="width:5.22919in;height:2.3622in"
+alt="Diagrama, Dibujo de ingeniería El contenido generado por IA puede ser incorrecto." />
+
+2.  
+
+<span class="mark">Radial bearings:</span> <span class="mark">Stainless
+Steel Deep Groove Ball Bearing SS 6011 55x90x18 mm. See</span>
+<span class="mark">Figure 14</span>Figure 14: Bearing SS 6011
+
+<img
+src="secrect_path_media/media/image23.png"
+style="width:3.45555in;height:2.3622in"
+alt="Imagen que contiene reloj El contenido generado por IA puede ser incorrecto." />
+
+## Lifting final position control
+
+1.  
+
+<!-- -->
+
+4.  
+5.  
+
+### <span class="mark">The final position control of the system is achieved through a combination of two pairs of</span> <span class="mark">limits</span> <span class="mark">sensors that function as limit switches.</span> This signal communicates the ICMS that control the Drive System.The emergency signals communicate with the MCC.Positions Sensors
+
+1.  
+
+<!-- -->
+
+3.  
+
+### Hot cell Position Sensor: This sensor detects when the column has reached its upper position. Service Pool Sensor: This sensor detects when the column has reached its target position at the bottom of the SP.Mechanical Stops
+
+1.  
+
+## Mechanical stops shall be placed to stop the lifting moveFDSVSDFBt and prevent collisions with the pool. Additionally, a damper shall be placed at the bottom of the SP to prevent damage in case of a fall.Lifting moveFDSVSDFBt conclusion
+
+1.  
+2.  
+3.  
+
+<table style="width:56%;">
+<caption><p>The lifting moveFDSVSDFBt shall be Drive by a gearmotor, which
+operates a drum and steel wire mechanism. This setup shall allow a
+controlled and accurate vertical positioning. The moveFDSVSDFBt shall be
+monitored and controlled by two pairs of limit switches, which ensure
+both positional accuracy and safety.Considering the total load from the
+payload in Newtons and the minimum breaking force of the selected wire,
+the safety factor is obtained from Table 27.Table 27 Rope Safety
+factor</p></caption>
+<colgroup>
+<col style="width: 45%" />
+<col style="width: 10%" />
+</colgroup>
+<thead>
+<tr>
+<th colspan="2" style="text-align: left;"><strong>Rope Safety
+factor</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Payload [N]</td>
+<td style="text-align: right;">3920.00</td>
+</tr>
+<tr>
+<td style="text-align: left;">Minimum breaking force 1960 N/mm2
+[kN]</td>
+<td style="text-align: right;">55.00</td>
+</tr>
+<tr>
+<td style="text-align: left;"><strong>Safety factor</strong></td>
+<td style="text-align: right;"><strong>14.03</strong></td>
+</tr>
+</tbody>
+</table>
+
+# arm system
+
+## Arm lift
+
+1.  
+2.  
+3.  
+
+The arm connects to the column using 12 wheels, these wheels have
+bearings.The loads on the lifting arm are:Figure 15: Loads on the
+lifting arm. Side view.
+
+<img
+src="secrect_path_media/media/image24.png"
+style="width:4.88583in;height:3.93701in" />Figure 16: Loads on the
+lifting arm. Plant view.
+
+5.  
+6.  
+
+| **Acceleration** | **\[m/s<sup>2</sup>\]** |
+|:-----------------|------------------------:|
+| Acc X            |                    3.64 |
+| Acc Y            |                   29.68 |
+| Acc Z            |                    7.75 |
+
+<img
+src="secrect_path_media/media/image25.png"
+style="width:5.90625in;height:3.03819in" />The most unfavorable
+condition is the case of an earthquake where the accelerations have
+values:Table 28 Acceleration.
+
+7.  
+8.  
+
+The mass amplification factor is 1.50.The force on the wheels in the X
+direction according to the acceleration in X is:
+``` math
+\frac{_{}}{}
+```
+Where,
+
+1.  
+
+| **Characteristics** | **Value** | **Unit**        |
+|:--------------------|:---------:|:----------------|
+| CG                  |    241    | N               |
+| Acc X               |   3.64    | m/s<sup>2</sup> |
+| **Result**          |           |                 |
+| CG<sub>x</sub>      |   1315    | N               |
+| Force X             |   1787    | N               |
+
+CGx is the mass affected by the acceleration in XTable 29 Calculation
+results.
+
+9.  The force on the wheels in the X direction according to the
+    acceleration in Y is:
+    ``` math
+    \frac{\left(_{} \right)}{}
+    ```
+
+Where,
+
+1.  
+2.  
+
+| **Characteristics** | **Value** | **Unit**        |
+|:--------------------|:---------:|:----------------|
+| CG                  |    241    | N               |
+| Acc Y               |   29.68   | m/s<sup>2</sup> |
+| **Result**          |           |                 |
+| CG<sub>x</sub>      |   10729   | N               |
+| Force X             |   15245   | N               |
+
+CGy is the mass affected by the acceleration in Y.Table 30 Calculation
+results.
+
+10. The force on the wheels in the Z direction according to the
+    acceleration in Z is:
+    ``` math
+    \frac{\left(_{} \right)}{}
+    ```
+
+Where
+
+1.  
+2.  
+
+| **Characteristics** | **Value** | **Unit**        |
+|:--------------------|:---------:|:----------------|
+| CG                  |    241    | N               |
+| Acc Z               |   7.75    | m/s<sup>2</sup> |
+| **Result**          |           |                 |
+| CG<sub>x</sub>      |   7676    | N               |
+| Force Z             |   7676    | N               |
+
+CGz is the mass affected by the acceleration in ZTable 31 Calculation
+results.
+
+11. The radial force on each wheel is:
+    ``` math
+    \frac{{}_{}{}_{}}{}
+    ```
+
+12. The axial force on each wheel is:
+    ``` math
+    \frac{}{}
+    ```
+
+13. 
+
+According to the results, the bearing selected for these loads is SKF
+brand NUP2203ECP bearing.
+
+## Telescopic Arm
+
+1.  
+
+<span class="mark">The telescopic arm is driven by a double roller chain
+system.</span>Figure 17 – Telescopic arm.
+
+<img
+src="secrect_path_media/media/image26.png"
+style="width:1.52756in;height:3.93701in" /><img
+src="secrect_path_media/media/image27.png"
+style="width:2.95276in;height:2.93701in" />
+
+2.  
+
+<span class="mark">The loads on the lifting arm are:</span>Figure 18:
+Loads on the lifting arm. Side view.
+
+<img
+src="secrect_path_media/media/image28.png"
+style="width:1.88976in;height:3.14961in" />
+
+3.  
+
+| **Acceleration** | **\[m/s<sup>2</sup>\]** |
+|:-----------------|------------------------:|
+| Acc X            |                    3.64 |
+| Acc Y            |                   29.68 |
+| Acc Z            |                    7.75 |
+
+The most unfavorable condition is the case of an earthquake where the
+accelerations have values:Table 32 Acceleration
+
+14. 
+15. 
+16. 
+
+| **Characteristics** | **Value** | **Unit**        |
+|:--------------------|:---------:|:----------------|
+| Mass                |   70,95   | kg              |
+| Acc Y               |   29.68   | m/s<sup>2</sup> |
+| **Result**          |           |                 |
+| Force Y             |   3158    | N               |
+
+The mass amplification factor is 1.50.The chain only supports
+longitudinal loads.The force on the chain in the Y direction according
+to the acceleration in Y is:Table 33 Calculation results.
+
+17. 
+
+According to the results, the chain selected for these loads is Roller
+chain 40-1, Stainless steel – ELITE from the IWIS brand.
+
+# DRIVE SYSTEM GENERAL CONCLUSION
+
+1.  
+
+| **Drive system**       | **Power \[kW\]** |
+|:-----------------------|-----------------:|
+| Rope lifting operation |             0.55 |
+| Rotating moveFDSVSDFBt      |             0.12 |
+| **Total**              |         **0.67** |
+
+Considering both moveFDSVSDFBts present on the Drive system, the total power
+of the system is shown in the Table 34.Table 34 Total power
+
+# APPLICABLE DOCUFDSVSDFBTS
+
+1.  FDSVSDFB09950010000009807 revision 5 Elevator and Inspection Bridge 3D
+    Model Assembly
+
+2.  FDSVSDFB09950010000010879 version 9 Service Pool 3D Model
+
+# REFERENCE DOCUFDSVSDFBTS
+
+3.  ORGF-7060-EPREIC-002 Secret org Project Glossary
+
+4.  EN 13001-2:2014 Crane safety - General design - Part 2: Load actions
+
+5.  EN 13001-3-2:2014 Cranes — General design
+
+6.  SEW Euro drives S series helical-worm gear units ref:
+    <https://www.sew-eurodrive.com.ar/products/gear_units/standard_gear_units/helical-worm_gear_units_s/helical-worm_gear_units_s.html>
+
+7.  See Annex 1 and Annex 2 for data sheets.Catalogue for Steel wires
+    ref:
+    <https://www.casar.de/Portals/0/DocuFDSVSDFBts/Product-Specs/alphalift.pdf>
+
+8.  See Annex 3 for data sheet.Roller bearing NUP2203ECP:
+    https://www.skf.com/ar/products/rolling-bearings/roller-bearings/cylindrical-roller-bearings/single-row-cylindrical-roller-bearings/productid-NUP%202203%20ECP
+
+9.  Roller Chain 40-1: https://www.iwis.com/en-en/print-product/3441
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
+
+# 
